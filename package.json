@@ -1,0 +1,17 @@
+{
+  "name": "github",
+  "version": "1.0.0",
+  "description": "test website",
+  "main": "app.js",
+  "dependencies": {
+    "express": "x.x"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "antfriend",
+  "license": "MIT"
+}
