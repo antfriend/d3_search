@@ -1,0 +1,585 @@
+{
+  "status": 200,
+  "versioning": {
+    "X-HW-Version": "1"
+  },
+  "links": {
+    "self": "https://search.test.hwapps.net/v1/search?num_concepts=50&facet_field=(gender,age,aspects,concepts)&q=Asthma&fq=SubType:(video)&top=1000"
+  },
+  "pagination": {
+    "count": 21,
+    "top": 21,
+    "skip": 0
+  },
+  "items": [{
+    "data": {
+      "id": "abl3313",
+      "lang": "en-us",
+      "type": "video",
+      "doctype": "multimedia",
+      "localizations": {
+        "en-us": "https://content.test.hwapps.net/v1/articles/abl3313/en-us",
+        "es-us": "https://content.test.hwapps.net/v1/articles/abl3313/es-us"
+      },
+      "title": {
+        "consumer": {
+          "en-us": "Asthma Action Plan",
+          "es-us": "Plan de acción contra el asma"
+        }
+      },
+      "abstract": {
+        "consumer": {
+          "en-us": "Learn how following an asthma action plan can help you take control of your asthma.",
+          "es-us": "Aprenda cómo seguir un plan de acción contra el asma puede ayudarle a controlar su asma."
+        }
+      },
+      "duration": 98,
+      "thumbnail": "https://assetpool.test.hwapps.net/11.1/en-us/desktop/abl3313/SD/abl3313.jpg"
+    }
+  }, {
+    "data": {
+      "id": "abl3339",
+      "lang": "en-us",
+      "type": "video",
+      "doctype": "multimedia",
+      "localizations": {
+        "en-us": "https://content.test.hwapps.net/v1/articles/abl3339/en-us",
+        "es-us": "https://content.test.hwapps.net/v1/articles/abl3339/es-us"
+      },
+      "title": {
+        "consumer": {
+          "en-us": "Dealing With Asthma Triggers",
+          "es-us": "Cómo controlar los desencadenantes del asma"
+        }
+      },
+      "abstract": {
+        "consumer": {
+          "en-us": "Learn how to avoid common asthma triggers to better control your symptoms.",
+          "es-us": "Aprenda a evitar los desencadenantes comunes del asma para controlar mejor sus síntomas."
+        }
+      },
+      "duration": 124,
+      "thumbnail": "https://assetpool.test.hwapps.net/11.1/en-us/desktop/abl3339/SD/abl3339.jpg"
+    }
+  }, {
+    "data": {
+      "id": "abo7196",
+      "lang": "en-us",
+      "type": "video",
+      "doctype": "multimedia",
+      "localizations": {
+        "en-us": "https://content.test.hwapps.net/v1/articles/abo7196/en-us",
+        "es-us": "https://content.test.hwapps.net/v1/articles/abo7196/es-us"
+      },
+      "title": {
+        "consumer": {
+          "en-us": "Asthma Action Plan for Your Child",
+          "es-us": "Plan de acción contra el asma para su hijo"
+        }
+      },
+      "abstract": {
+        "consumer": {
+          "en-us": "Learn how following an asthma action plan can help you control your child's asthma.",
+          "es-us": "Aprenda cómo seguir un plan de acción contra el asma puede ayudar a controlar el asma de su hijo."
+        }
+      },
+      "duration": 127,
+      "thumbnail": "https://assetpool.test.hwapps.net/11.1/en-us/desktop/abo7196/SD/abo7196.jpg"
+    }
+  }, {
+    "data": {
+      "id": "abo8237",
+      "lang": "en-us",
+      "type": "video",
+      "doctype": "multimedia",
+      "localizations": {
+        "en-us": "https://content.test.hwapps.net/v1/articles/abo8237/en-us"
+      },
+      "title": {
+        "consumer": {
+          "en-us": "Helping Your Child Deal With Asthma"
+        }
+      },
+      "abstract": {
+        "consumer": {
+          "en-us": "Learn how to help your child deal with asthma and asthma treatments."
+        }
+      },
+      "duration": 128,
+      "thumbnail": "https://assetpool.test.hwapps.net/11.1/en-us/desktop/abo8237/SD/abo8237.jpg"
+    }
+  }, {
+    "data": {
+      "id": "abo8245",
+      "lang": "en-us",
+      "type": "video",
+      "doctype": "multimedia",
+      "localizations": {
+        "en-us": "https://content.test.hwapps.net/v1/articles/abo8245/en-us"
+      },
+      "title": {
+        "consumer": {
+          "en-us": "Teenagers: Feeling Different Because of Asthma"
+        }
+      },
+      "abstract": {
+        "consumer": {
+          "en-us": "Learn how expressing your negative feelings about asthma will help you feel better."
+        }
+      },
+      "duration": 87,
+      "thumbnail": "https://assetpool.test.hwapps.net/11.1/en-us/desktop/abo8245/SD/abo8245.jpg"
+    }
+  }, {
+    "data": {
+      "id": "abl3223",
+      "lang": "en-us",
+      "type": "video",
+      "doctype": "multimedia",
+      "localizations": {
+        "en-us": "https://content.test.hwapps.net/v1/articles/abl3223/en-us",
+        "es-us": "https://content.test.hwapps.net/v1/articles/abl3223/es-us"
+      },
+      "title": {
+        "consumer": {
+          "en-us": "Asthma: Using an Inhaler and Spacer",
+          "es-us": "Asma: Uso de un inhalador y un espaciador"
+        }
+      },
+      "abstract": {
+        "consumer": {
+          "en-us": "Learn the correct way to use a spacer with your inhaler.",
+          "es-us": "Aprenda la manera correcta de usar un espaciador con su inhalador."
+        }
+      },
+      "duration": 98,
+      "thumbnail": "https://assetpool.test.hwapps.net/11.1/en-us/desktop/abl3223/SD/abl3223.jpg"
+    }
+  }, {
+    "data": {
+      "id": "abl3321",
+      "lang": "en-us",
+      "type": "video",
+      "doctype": "multimedia",
+      "localizations": {
+        "en-us": "https://content.test.hwapps.net/v1/articles/abl3321/en-us"
+      },
+      "title": {
+        "consumer": {
+          "en-us": "Stories From People Controlling Their Asthma"
+        }
+      },
+      "abstract": {
+        "consumer": {
+          "en-us": "Hear how others with asthma have learned to control their symptoms."
+        }
+      },
+      "duration": 90,
+      "thumbnail": "https://assetpool.test.hwapps.net/11.1/en-us/desktop/abl3321/SD/abl3321.jpg"
+    }
+  }, {
+    "data": {
+      "id": "abl3331",
+      "lang": "en-us",
+      "type": "video",
+      "doctype": "multimedia",
+      "localizations": {
+        "en-us": "https://content.test.hwapps.net/v1/articles/abl3331/en-us",
+        "es-us": "https://content.test.hwapps.net/v1/articles/abl3331/es-us"
+      },
+      "title": {
+        "consumer": {
+          "en-us": "Asthma: Myths About Inhaled Steroids",
+          "es-us": "Asma: Mitos sobre los esteroides inhalados"
+        }
+      },
+      "abstract": {
+        "consumer": {
+          "en-us": "Learn common myths about inhaled steroids, which are some of the best medicines for controlling asthma.",
+          "es-us": "Aprenda sobre los mitos comunes relacionados con los esteroides inhalados, que están entre los mejores medicamentos para controlar el asma."
+        }
+      },
+      "duration": 108,
+      "thumbnail": "https://assetpool.test.hwapps.net/11.1/en-us/desktop/abl3331/SD/abl3331.jpg"
+    }
+  }, {
+    "data": {
+      "id": "abo2350",
+      "lang": "en-us",
+      "type": "video",
+      "doctype": "multimedia",
+      "localizations": {
+        "en-us": "https://content.test.hwapps.net/v1/articles/abo2350/en-us",
+        "es-us": "https://content.test.hwapps.net/v1/articles/abo2350/es-us"
+      },
+      "title": {
+        "consumer": {
+          "en-us": "Asthma: The Importance of Controller Medicines",
+          "es-us": "Asma: La importancia de los medicamentos de control"
+        }
+      },
+      "abstract": {
+        "consumer": {
+          "en-us": "Learn why your controller medicines are so important.",
+          "es-us": "Sepa por qué los medicamentos de control son tan importantes."
+        }
+      },
+      "duration": 25,
+      "thumbnail": "https://assetpool.test.hwapps.net/11.1/en-us/desktop/abo2350/SD/abo2350.jpg"
+    }
+  }, {
+    "data": {
+      "id": "abo2359",
+      "lang": "en-us",
+      "type": "video",
+      "doctype": "multimedia",
+      "localizations": {
+        "en-us": "https://content.test.hwapps.net/v1/articles/abo2359/en-us",
+        "es-us": "https://content.test.hwapps.net/v1/articles/abo2359/es-us"
+      },
+      "title": {
+        "consumer": {
+          "en-us": "Asthma: What Happens in Your Lungs",
+          "es-us": "Asma: Qué sucede en los pulmones"
+        }
+      },
+      "abstract": {
+        "consumer": {
+          "en-us": "Learn what's going on in the lungs that can make it hard to breathe when you have asthma.",
+          "es-us": "Aprenda lo que sucede en los pulmones que puede dificultarle la respiración cuando tiene asma."
+        }
+      },
+      "duration": 152,
+      "thumbnail": "https://assetpool.test.hwapps.net/11.1/en-us/desktop/abo2359/SD/abo2359.jpg"
+    }
+  }, {
+    "data": {
+      "id": "abo7208",
+      "lang": "en-us",
+      "type": "video",
+      "doctype": "multimedia",
+      "localizations": {
+        "en-us": "https://content.test.hwapps.net/v1/articles/abo7208/en-us",
+        "es-us": "https://content.test.hwapps.net/v1/articles/abo7208/es-us"
+      },
+      "title": {
+        "consumer": {
+          "en-us": "Asthma: Is Your Child Using the Rescue Inhaler Too Often?",
+          "es-us": "Asma: ¿Usa su hijo el inhalador de rescate con demasiada frecuencia?"
+        }
+      },
+      "abstract": {
+        "consumer": {
+          "en-us": "Learn how to tell when your child is using a rescue inhaler too often.",
+          "es-us": "Sepa cómo saber si su hijo está usando un inhalador de rescate con demasiada frecuencia."
+        }
+      },
+      "duration": 65,
+      "thumbnail": "https://assetpool.test.hwapps.net/11.1/en-us/desktop/abo7208/SD/abo7208.jpg"
+    }
+  }, {
+    "data": {
+      "id": "abo8223",
+      "lang": "en-us",
+      "type": "video",
+      "doctype": "multimedia",
+      "localizations": {
+        "en-us": "https://content.test.hwapps.net/v1/articles/abo8223/en-us",
+        "es-us": "https://content.test.hwapps.net/v1/articles/abo8223/es-us"
+      },
+      "title": {
+        "consumer": {
+          "en-us": "Asthma: Keeping Your Child Out of the Hospital",
+          "es-us": "Asma: Cómo evitar la hospitalización de su hijo"
+        }
+      },
+      "abstract": {
+        "consumer": {
+          "en-us": "Learn ways to prevent a return trip to the emergency room for your child with asthma.",
+          "es-us": "Aprenda maneras de evitar que su hijo que tiene asma regrese a la sala de urgencias."
+        }
+      },
+      "duration": 120,
+      "thumbnail": "https://assetpool.test.hwapps.net/11.1/en-us/desktop/abo8223/SD/abo8223.jpg"
+    }
+  }, {
+    "data": {
+      "id": "abo8229",
+      "lang": "en-us",
+      "type": "video",
+      "doctype": "multimedia",
+      "localizations": {
+        "en-us": "https://content.test.hwapps.net/v1/articles/abo8229/en-us"
+      },
+      "title": {
+        "consumer": {
+          "en-us": "Asthma: Helping a Young Child Take Medicine"
+        }
+      },
+      "abstract": {
+        "consumer": {
+          "en-us": "Learn ways to encourage your young child to take asthma medicine with a nebulizer."
+        }
+      },
+      "duration": 92,
+      "thumbnail": "https://assetpool.test.hwapps.net/11.1/en-us/desktop/abo8229/SD/abo8229.jpg"
+    }
+  }, {
+    "data": {
+      "id": "abo5507",
+      "lang": "en-us",
+      "type": "video",
+      "doctype": "multimedia",
+      "localizations": {
+        "en-us": "https://content.test.hwapps.net/v1/articles/abo5507/en-us",
+        "es-us": "https://content.test.hwapps.net/v1/articles/abo5507/es-us"
+      },
+      "title": {
+        "consumer": {
+          "en-us": "Using a Dry Powder Inhaler",
+          "es-us": "Uso de un inhalador de polvo seco"
+        }
+      },
+      "abstract": {
+        "consumer": {
+          "en-us": "Learn the right way to use a dry powder inhaler to help control your asthma.",
+          "es-us": "Aprenda la manera correcta de usar un inhalador de polvo seco para ayudar a controlar el asma."
+        }
+      },
+      "duration": 106,
+      "thumbnail": "https://assetpool.test.hwapps.net/11.1/en-us/desktop/abo5507/SD/abo5507.jpg"
+    }
+  }, {
+    "data": {
+      "id": "abo5501",
+      "lang": "en-us",
+      "type": "video",
+      "doctype": "multimedia",
+      "localizations": {
+        "en-us": "https://content.test.hwapps.net/v1/articles/abo5501/en-us",
+        "es-us": "https://content.test.hwapps.net/v1/articles/abo5501/es-us"
+      },
+      "title": {
+        "consumer": {
+          "en-us": "Using a Metered-Dose Inhaler With a Mask Spacer",
+          "es-us": "Uso de un inhalador de dosis medida con un espaciador de mascarilla"
+        }
+      },
+      "abstract": {
+        "consumer": {
+          "en-us": "Learn how to use a mask spacer to give a child an inhaled asthma medicine.",
+          "es-us": "Aprenda a usar un espaciador de mascarilla para administrarle a un niño un medicamento inhalado para el asma."
+        }
+      },
+      "duration": 78,
+      "thumbnail": "https://assetpool.test.hwapps.net/11.1/en-us/desktop/abo5501/SD/abo5501.jpg"
+    }
+  }, {
+    "data": {
+      "id": "abo5513",
+      "lang": "en-us",
+      "type": "video",
+      "doctype": "multimedia",
+      "localizations": {
+        "en-us": "https://content.test.hwapps.net/v1/articles/abo5513/en-us",
+        "es-us": "https://content.test.hwapps.net/v1/articles/abo5513/es-us"
+      },
+      "title": {
+        "consumer": {
+          "en-us": "Checking Peak Flow",
+          "es-us": "Control del flujo máximo"
+        }
+      },
+      "abstract": {
+        "consumer": {
+          "en-us": "Learn how to use a peak flow meter to check how well your lungs are working.",
+          "es-us": "Aprenda a utilizar un medidor de flujo máximo para saber lo bien que le están funcionando los pulmones."
+        }
+      },
+      "duration": 108,
+      "thumbnail": "https://assetpool.test.hwapps.net/11.1/en-us/desktop/abo5513/SD/abo5513.jpg"
+    }
+  }, {
+    "data": {
+      "id": "abo5495",
+      "lang": "en-us",
+      "type": "video",
+      "doctype": "multimedia",
+      "localizations": {
+        "en-us": "https://content.test.hwapps.net/v1/articles/abo5495/en-us",
+        "es-us": "https://content.test.hwapps.net/v1/articles/abo5495/es-us"
+      },
+      "title": {
+        "consumer": {
+          "en-us": "Using a Metered-Dose Inhaler Without a Spacer",
+          "es-us": "Uso de un inhalador de dosis medida sin un espaciador"
+        }
+      },
+      "abstract": {
+        "consumer": {
+          "en-us": "Learn the correct way to use an inhaler that doesn't have a spacer.",
+          "es-us": "Aprenda la manera correcta de usar un inhalador que no tiene un espaciador."
+        }
+      },
+      "duration": 59,
+      "thumbnail": "https://assetpool.test.hwapps.net/11.1/en-us/desktop/abo5495/SD/abo5495.jpg"
+    }
+  }, {
+    "data": {
+      "id": "abo7202",
+      "lang": "en-us",
+      "type": "video",
+      "doctype": "multimedia",
+      "localizations": {
+        "en-us": "https://content.test.hwapps.net/v1/articles/abo7202/en-us"
+      },
+      "title": {
+        "consumer": {
+          "en-us": "Long-Acting Bronchodilators for Your Child"
+        }
+      },
+      "abstract": {
+        "consumer": {
+          "en-us": "Learn why a long-acting bronchodilator might be added to your child's asthma medicine."
+        }
+      },
+      "duration": 80,
+      "thumbnail": "https://assetpool.test.hwapps.net/11.1/en-us/desktop/abo7202/SD/abo7202.jpg"
+    }
+  }, {
+    "data": {
+      "id": "abo8260",
+      "lang": "en-us",
+      "type": "video",
+      "doctype": "multimedia",
+      "localizations": {
+        "en-us": "https://content.test.hwapps.net/v1/articles/abo8260/en-us"
+      },
+      "title": {
+        "consumer": {
+          "en-us": "Teaching Your Child to Use an Inhaler Without a Spacer"
+        }
+      },
+      "abstract": {
+        "consumer": {
+          "en-us": "Learn how your child should use an inhaler without a spacer."
+        }
+      },
+      "duration": 114,
+      "thumbnail": "https://assetpool.test.hwapps.net/11.1/en-us/desktop/abo8260/SD/abo8260.jpg"
+    }
+  }, {
+    "data": {
+      "id": "abo8266",
+      "lang": "en-us",
+      "type": "video",
+      "doctype": "multimedia",
+      "localizations": {
+        "en-us": "https://content.test.hwapps.net/v1/articles/abo8266/en-us"
+      },
+      "title": {
+        "consumer": {
+          "en-us": "Teaching Your Child to Use an Inhaler With a Spacer"
+        }
+      },
+      "abstract": {
+        "consumer": {
+          "en-us": "Learn how your child should use an inhaler with a spacer."
+        }
+      },
+      "duration": 92,
+      "thumbnail": "https://assetpool.test.hwapps.net/11.1/en-us/desktop/abo8266/SD/abo8266.jpg"
+    }
+  }, {
+    "data": {
+      "id": "abo8272",
+      "lang": "en-us",
+      "type": "video",
+      "doctype": "multimedia",
+      "localizations": {
+        "en-us": "https://content.test.hwapps.net/v1/articles/abo8272/en-us"
+      },
+      "title": {
+        "consumer": {
+          "en-us": "How to Use a Nebulizer With a Mask"
+        }
+      },
+      "abstract": {
+        "consumer": {
+          "en-us": "Learn how to use a nebulizer, with a face mask, on your child."
+        }
+      },
+      "duration": 89,
+      "thumbnail": "https://assetpool.test.hwapps.net/11.1/en-us/desktop/abo8272/SD/abo8272.jpg"
+    }
+  }],
+  "concepts": [{
+    "id": "HWCV_20425",
+    "label": "Asthma",
+    "href": "https://taxonomy.test.hwapps.net/v1/concepts/HWCV_20425"
+  }, {
+    "id": "HWCV_21226",
+    "label": "Asthma Attack",
+    "href": "https://taxonomy.test.hwapps.net/v1/concepts/HWCV_21226"
+  }, {
+    "id": "HWCV_22488",
+    "label": "Asthma Diary",
+    "href": "https://taxonomy.test.hwapps.net/v1/concepts/HWCV_22488"
+  }, {
+    "id": "HWCV_04360",
+    "label": "Asthma Triggers",
+    "href": "https://taxonomy.test.hwapps.net/v1/concepts/HWCV_04360"
+  }, {
+    "id": "HWCV_04850",
+    "label": "Asthma Medicines",
+    "href": "https://taxonomy.test.hwapps.net/v1/concepts/HWCV_04850"
+  }, {
+    "id": "HWCV_20427",
+    "label": "Asthma in Children",
+    "href": "https://taxonomy.test.hwapps.net/v1/concepts/HWCV_20427"
+  }, {
+    "id": "HWCV_22543",
+    "label": "Exercise-Induced Asthma",
+    "href": "https://taxonomy.test.hwapps.net/v1/concepts/HWCV_22543"
+  }, {
+    "id": "HWCV_04282",
+    "label": "Asthma Action Plan",
+    "href": "https://taxonomy.test.hwapps.net/v1/concepts/HWCV_04282"
+  }, {
+    "id": "HWCV_21720",
+    "label": "Asthma Challenge Test",
+    "href": "https://taxonomy.test.hwapps.net/v1/concepts/HWCV_21720"
+  }, {
+    "id": "HWCV_04545",
+    "label": "Avoiding Asthma Triggers",
+    "href": "https://taxonomy.test.hwapps.net/v1/concepts/HWCV_04545"
+  }, {
+    "id": "HWCV_04230",
+    "label": "Inhaler Devices",
+    "href": "https://taxonomy.test.hwapps.net/v1/concepts/HWCV_04230"
+  }, {
+    "id": "HWCV_04528",
+    "label": "Long-Term Control Medicines",
+    "href": "https://taxonomy.test.hwapps.net/v1/concepts/HWCV_04528"
+  }, {
+    "id": "HWCV_04526",
+    "label": "Inhaler Medications",
+    "href": "https://taxonomy.test.hwapps.net/v1/concepts/HWCV_04526"
+  }, {
+    "id": "HWCV_20429",
+    "label": "Reactive Airway Disease",
+    "href": "https://taxonomy.test.hwapps.net/v1/concepts/HWCV_20429"
+  }, {
+    "id": "HWCV_04232",
+    "label": "Metered-Dose Inhaler",
+    "href": "https://taxonomy.test.hwapps.net/v1/concepts/HWCV_04232"
+  }, {
+    "id": "HWCV_04527",
+    "label": "Inhaled Quick-Relief Medicines",
+    "href": "https://taxonomy.test.hwapps.net/v1/concepts/HWCV_04527"
+  }, {
+    "id": "HWCV_20637",
+    "label": "Black Lung Disease",
+    "href": "https://taxonomy.test.hwapps.net/v1/concepts/HWCV_20637"
+  }]
+}
